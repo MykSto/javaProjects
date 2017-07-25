@@ -73,7 +73,7 @@ public class Sample {
 		System.out.println();
 
 		Person elsesome = new Person();
-		elsesome.name = "Jack Keglis";
+		elsesome.name = "Ja Keglis";
 		elsesome.age = 23;
 		
 		//Is parametru isspausdinama programele
